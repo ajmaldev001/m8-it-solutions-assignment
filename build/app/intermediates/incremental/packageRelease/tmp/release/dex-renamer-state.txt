@@ -1,0 +1,4 @@
+#Sat Nov 23 21:30:33 IST 2024
+base.0=/Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

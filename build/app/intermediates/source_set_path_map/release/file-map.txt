@@ -1,0 +1,12 @@
+com.example.m8_it_solutions_assignment.app-jetified-annotation-experimental-1.1.0-0 /Users/ajmal/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.m8_it_solutions_assignment.app-jetified-window-1.0.0-beta04-1 /Users/ajmal/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.example.m8_it_solutions_assignment.app-jetified-window-java-1.0.0-beta04-2 /Users/ajmal/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.m8_it_solutions_assignment.app-core-1.6.0-3 /Users/ajmal/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.example.m8_it_solutions_assignment.app-main-4 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/android/app/src/main/res
+com.example.m8_it_solutions_assignment.app-release-5 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/android/app/src/release/res
+com.example.m8_it_solutions_assignment.app-pngs-6 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/generated/res/pngs/release
+com.example.m8_it_solutions_assignment.app-resValues-7 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/generated/res/resValues/release
+com.example.m8_it_solutions_assignment.app-rs-8 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/generated/res/rs/release
+com.example.m8_it_solutions_assignment.app-mergeReleaseResources-9 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.m8_it_solutions_assignment.app-mergeReleaseResources-10 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.m8_it_solutions_assignment.app-merged_res-11 /Users/ajmal/Development/M8IT_Solutions_Assignment/m8_it_solutions_assignment/build/app/intermediates/merged_res/release
